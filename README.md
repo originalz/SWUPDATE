@@ -24,7 +24,7 @@ auf IPLIVE copy-live-server.sh ausführen
 auf IPUPDATE copy-update-server.sh ausführen
 ```
 4. Cache leeren
-5. Host-Eintrag/Einträge setzen:
+5. Host-Einträge setzen:
 ```
 IP address.de
 IP www.address.de

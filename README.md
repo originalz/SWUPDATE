@@ -5,14 +5,15 @@
 ##Ablauf
   1. Backups Erstellen
 
-    - Backup des LIVE Systems machen (DB, Plugins (custom/themes/legacy_plugins), Themes)
-    - Backup des bearbeiteten Update Systems (custom/themes/legacy_plugins) LOKAL abspeichern
-    - Backup des bearbeiteten Update Systems in einem Unterverzeichnis des Update Servers sichern
+    + Backup des LIVE Systems machen (DB, Plugins (custom/themes/legacy_plugins), Themes)
+    + Backup des bearbeiteten Update Systems (custom/themes/legacy_plugins) LOKAL abspeichern
+    + Backup des bearbeiteten Update Systems in einem Unterverzeichnis des Update Servers sichern
 
 2. Update-System platt machen und neu aufsetzen (Stand vom Live-System)
-    
-    - auf 83.169.37.205 copy-live-server.sh ausführen
-    - auf 46.163.74.20 copy-update-server.sh ausführen
+```javascript
+auf 83.169.37.205 copy-live-server.sh ausführen
+auf 46.163.74.20 copy-update-server.sh ausführen
+```
 3. Erneuten Dump ziehen / importieren und geänderten Dateien vom Live-Server übertragen
 
     - auf 83.169.37.205 copy-live-server.sh ausführen

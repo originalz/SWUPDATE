@@ -1,5 +1,6 @@
-# SWUPATE
+# Shopware 5 Update Ablauf
 
+# Ressourcen
 - [Wichtige Hinweise](https://docs.shopware.com/de/shopware-5-de/update-guides/update-guide-shopware-56?category=shopware-5-de/update-guides#verwaiste-eintraege-in-s-order-details)
 - [Update Vorgang](https://docs.shopware.com/de/shopware-5-de/update-guides/shopware-aktualisieren-updaten?category=shopware-5-de/update-guides)
 

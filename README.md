@@ -6,8 +6,10 @@
 ## Ablauf
 1. Backups Erstellen
 ```
-Backup des LIVE Systems machen [custom, engine/Shopware/Plugins, themes]
-Backup des bearbeiteten Update Systems (am besten nochmal lokal) abspeichern [custom, engine/Shopware/Plugins, themes]
+Backup des LIVE Systems machen
+  - [custom, engine/Shopware/Plugins, themes]
+Backup des bearbeiteten Update Systems (am besten nochmal lokal) abspeichern
+  - [custom, engine/Shopware/Plugins, themes]
 Backup des bearbeiteten Update Systems in einem Unterverzeichnis des Update Servers sichern
 ```
 2. Update-System platt machen und neu aufsetzen (Stand vom Live-System)

@@ -33,7 +33,7 @@ IP www.address.de
 DELETE from s_order_details  WHERE orderID Not IN (Select id from s_order) (5.6.10)
 ```
 8. Update-Paket hochladen und Update durchführen
-9. alle Plugins über den Plugin Manager auf die jeweils neuste Version UPDATEN & NICHT NEU INSTALLIEREN!
+9. alle Plugins über den Plugin Manager auf die jeweils neuste Version **UPDATEN & NICHT NEU INSTALLIEREN!**
 10. Folgende Ordner vom vorherigen Update-System (am besten extra lokal gesichert) mit dem neu aktualisierten Update-Server mergen:
 ```
 custom/plugins

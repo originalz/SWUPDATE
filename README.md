@@ -1,9 +1,10 @@
 #SWUPATE
-  - Wichtige Hinweise https://docs.shopware.com/de/shopware-5-de/update-guides/update-guide-shopware-56?category=shopware-5-de/update-guides#verwaiste-eintraege-in-s-order-details
-  - Update Vorgang https://docs.shopware.com/de/shopware-5-de/update-guides/shopware-aktualisieren-updaten?category=shopware-5-de/update-guides
-
+```
+Wichtige Hinweise https://docs.shopware.com/de/shopware-5-de/update-guides/update-guide-shopware-56?category=shopware-5-de/update-guides#verwaiste-eintraege-in-s-order-details
+Update Vorgang https://docs.shopware.com/de/shopware-5-de/update-guides/shopware-aktualisieren-updaten?category=shopware-5-de/update-guides
+```
 ##Ablauf
-  1. Backups Erstellen
+1. Backups Erstellen
 ```
 Backup des LIVE Systems machen (DB, Plugins (custom/themes/legacy_plugins), Themes)
 Backup des bearbeiteten Update Systems (custom/themes/legacy_plugins) LOKAL abspeichern
